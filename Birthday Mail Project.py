@@ -33,8 +33,8 @@ def email_func(subject,birthday_receiver,name,):
 
   #store the email address for the recevier and the sender also store the senders email passowrdd
   receiver = birthday_receiver
-  sender = 'dontknowsam413@gmail.com'
-  sender_password = 'bpuf brdx pufe mrgm'
+  sender = 'yourgmail'
+  sender_password = 'yourpassword'
 
   #create a mimemultipart object
   msg= MM()
